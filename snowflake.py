@@ -20,7 +20,7 @@ with open("data.txt") as my_file:
         else:
             result += (int(f"{numbers_string[0] + numbers_string[0]}"))
     
-        print(result)
+    print(result)
             
 
 
